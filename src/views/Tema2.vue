@@ -184,7 +184,7 @@
                   .col-8
                     img(src='@/assets/curso/temas/img52.svg' style="max-width: 90px").m-auto
                 h4.mb-3.estilo-text Sistema inclusivo y participativo
-                p.mb-0 Asegurar que todas las voces —sin distinción de género o generación— sean consideradas en la construcción del sistema agroecológico.
+                p.mb-0 Asegurar que todas las voces sin distinción de género o generación sean consideradas en la construcción del sistema agroecológico.
 
 </template>
 
