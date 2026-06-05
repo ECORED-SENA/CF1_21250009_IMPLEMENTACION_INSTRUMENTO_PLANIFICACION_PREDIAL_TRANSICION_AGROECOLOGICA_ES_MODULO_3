@@ -213,7 +213,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/21250009_CF1_DU.pdf',
+        download: 'downloads/21250009_CF01_M3_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -389,6 +389,12 @@ export default {
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
+        {
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Profesional 06. Responsable del ecosistema virtual de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
         {
           nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción',
